@@ -55,6 +55,6 @@
 |[Контест 4](https://contest.yandex.ru/contest/54625/problems/) |  |
 | --- | :-: |
 | [1. Количество выполненных задач](./contest_04/01/main.go) | ![](./img/go.png) |
-| [2. Количество выполненных задач](.contest_04/02/main.cpp) |  ![](./img/cpp.png) |
+| [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Титаник](./contest_04/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
