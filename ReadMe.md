@@ -58,3 +58,13 @@
 | [2. Количество выполненных задач](./contest_04/02/main.cpp) |  ![](./img/cpp.png) |
 | [3. Титаник](./contest_04/03/main.cpp) | ![](./img/cpp.png) |
 | [4. Титаник](./contest_04/04/main.go) | ![](./img/go.png) |
+
+|[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
+| --- | :-: |
+| [1. Get a cat](./contest_05/1.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/2.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/3.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/4.cpp) | ![](./img/cpp.png) |
+| [5. Класс. Большое целое число](./contest_05/5.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/6.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/7.go) | ![](./img/go.png) |
