@@ -22,3 +22,10 @@ public:
         return Cat(isCatAlive);
     }
 };
+
+int main(){
+    Box box;
+Cat cat = box.open();
+if (cat.is_alive()) std::cout << "alive";
+else std::cout << "dead";
+}
