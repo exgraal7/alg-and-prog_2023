@@ -68,3 +68,8 @@
 | [5. Класс. Большое целое число](./contest_05/5.cpp) | ![](./img/cpp.png) |
 | [6. Get a cat](./contest_05/6.go) | ![](./img/go.png) |
 | [7. Класс. Чайник](./contest_05/7/main.go) | ![](./img/go.png) |
+
+|[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
+| --- | :-: |
+| [1. Класс. Shape](./contest_06/1.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Менеджер](./contest_06/2.cpp) |  ![](./img/cpp.png) |
