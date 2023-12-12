@@ -50,6 +50,7 @@ public:
 };
 
 // Начало вставленного кода
+
 #include <vector>
 #include <algorithm>
 #include <iomanip>
