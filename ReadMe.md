@@ -77,3 +77,21 @@
 |[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
 | --- | :-: |
 | [1. Класс. RunnableСlock](./contest_07/1.cpp) | ![](./img/cpp.png) |
+
+|[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
+| --- | :-: |
+| [1. Никаких секретов](./contest_08/1.cpp) | ![](./img/cpp.png) |
+| [2. Уроборос](./contest_08/2.cpp) |  ![](./img/cpp.png) |
+| [3. 1D массив + функции](./contest_08/3.cpp) | ![](./img/cpp.png) |
+| [4. 2D массив + функции](./contest_08/4.cpp) | ![](./img/cpp.png) |
+| [5. IntSharedPointer](./contest_08/5.cpp) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/6.c[[) | ![](./img/cpp.png) |
+| [7. Адаптер функций](./contest_08/7.cpp) | ![](./img/cpp.png) |
+| [8. Стратегия печати](./contest_08/8.cpp) | ![](./img/cpp.png) |
+| [9. Композит](./contest_08/9.cpp) | ![](./img/cpp.png) |
+| [10. Какой тип](./contest_08/10.go) | ![](./img/go.png) |
+| [11. Класс. Матрица](./contest_08/11.go) | ![](./img/go.png) |
+| [12. Класс. Стек](./contest_08/12.go) | ![](./img/go.png) |
+| [13. Pizza Builder](./contest_08/13.go) | ![](./img/go.png) |
+| [14. Битва ботов](./contest_08/14.go) | ![](./img/go.png) |
+| [15. Бинарное дерево поиска](./contest_08/15.go) | ![](./img/go.png) |
