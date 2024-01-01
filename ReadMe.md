@@ -85,7 +85,7 @@
 | [3. 1D массив + функции](./contest_08/3.cpp) | ![](./img/cpp.png) |
 | [4. 2D массив + функции](./contest_08/4.cpp) | ![](./img/cpp.png) |
 | [5. IntSharedPointer](./contest_08/5.cpp) | ![](./img/cpp.png) |
-| [6. Класс Any](./contest_08/6.c[[) | ![](./img/cpp.png) |
+| [6. Класс Any](./contest_08/6.cpp) | ![](./img/cpp.png) |
 | [7. Адаптер функций](./contest_08/7.cpp) | ![](./img/cpp.png) |
 | [8. Стратегия печати](./contest_08/8.cpp) | ![](./img/cpp.png) |
 | [9. Композит](./contest_08/9.cpp) | ![](./img/cpp.png) |
