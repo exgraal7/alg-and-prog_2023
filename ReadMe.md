@@ -61,13 +61,13 @@
 
 |[Контест 5](https://contest.yandex.ru/contest/55465/problems/) |  |
 | --- | :-: |
-| [1. Get a cat](./contest_05/1.cpp) | ![](./img/cpp.png) |
-| [2. Класс. Чайник](./contest_05/2.cpp) |  ![](./img/cpp.png) |
-| [3. Класс. Комплексное число](./contest_05/3.cpp) | ![](./img/cpp.png) |
-| [4. Класс. Point](./contest_05/4.cpp) | ![](./img/cpp.png) |
-| [5. Класс. Большое целое число](./contest_05/5.cpp) | ![](./img/cpp.png) |
-| [6. Get a cat](./contest_05/6.go) | ![](./img/go.png) |
-| [7. Класс. Чайник](./contest_05/7/main.go) | ![](./img/go.png) |
+| [1. Get a cat](./contest_05/01/1.cpp) | ![](./img/cpp.png) |
+| [2. Класс. Чайник](./contest_05/02/2.cpp) |  ![](./img/cpp.png) |
+| [3. Класс. Комплексное число](./contest_05/03/3.cpp) | ![](./img/cpp.png) |
+| [4. Класс. Point](./contest_05/04/4.cpp) | ![](./img/cpp.png) |
+| [5. Класс. Большое целое число](./contest_05/05/5.cpp) | ![](./img/cpp.png) |
+| [6. Get a cat](./contest_05/06/6.go) | ![](./img/go.png) |
+| [7. Класс. Чайник](./contest_05/07/7.go) | ![](./img/go.png) |
 
 |[Контест 6](https://contest.yandex.ru/contest/55918/problems/) |  |
 | --- | :-: |
