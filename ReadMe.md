@@ -76,7 +76,7 @@
 
 |[Контест 7](https://contest.yandex.ru/contest/56824/problems/) |  |
 | --- | :-: |
-| [1. Класс. RunnableСlock](./contest_07/1.cpp) | ![](./img/cpp.png) |
+| [1. Класс. RunnableСlock](./contest_07/01/1.cpp) | ![](./img/cpp.png) |
 
 |[Контест 8](https://contest.yandex.ru/contest/57296/problems/) |  |
 | --- | :-: |
